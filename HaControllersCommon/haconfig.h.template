@@ -1,0 +1,18 @@
+/*
+ * haconfig.h
+ *
+ *  Created on: 9. 5. 2016
+ *      Author: jindra
+ */
+
+#ifndef HACONFIG_H_
+#define HACONFIG_H_
+
+
+#define WIFI_PASSWORD ""
+#define WIFI_SSID ""
+
+#define MQTT_ADDRESS 0, 0, 0, 0
+#define MQTT_PORT 1883
+
+#endif /* HACONFIG_H_ */
